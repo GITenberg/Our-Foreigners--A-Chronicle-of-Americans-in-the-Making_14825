@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1098
     wikipedia: http://ech.case.edu/ech-cgi/article.pl?id=OSP
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14825#Our-Foreigners--A-Chronicle-of-Americans-in-the-Making
 gutenberg_bookshelf:
 - United States
 - Children's History
